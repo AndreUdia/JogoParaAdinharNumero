@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VersaoProfessor</string>
+    <string name="texto1">Digite um Número:</string>
+    <string name="texto2">Acertou na Mosca!</string>
+    <string name="texto3"> é maior que o n° sorteado!</string>
+    <string name="texto4"> é menor que o n° sorteado!</string>
+    <string name="texto5">OK</string>
+    <string name="textoVazio">""</string>
+    <string name="numeroHint">(Mínimo 1 - Máximo 100)</string>
+    <string name="tentativas">Total de tentativas</string>
+    <string name="contador">0</string>
+</resources>
